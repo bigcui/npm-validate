@@ -1,0 +1,23 @@
+{
+  "name": "npm-validate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigcui/npm-validate.git"
+  },
+  "author": "cuihonglei <cuihonglei.ok@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigcui/npm-validate/issues"
+  },
+  "homepage": "https://github.com/bigcui/npm-validate#readme"
+}
